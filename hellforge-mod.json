@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "id": "local.weakpoint-lockon",
+  "name": "Weakpoint Lock-On",
+  "version": "3.0.0",
+  "description": "Moves the lock-on point of many enemies and structures to a weak point (heads, joints, fabricator frames), so lock-on weapons aim there. A fixed set of the options from Weakpoint Lock-On All-In-One 3.0 by potatoman7676 and 치킨맛참새 (used with their permission), packaged as a gameplay mod to work with Hellforge Rebalanced: every player must run the same files. Sentries, Arc and flame weapons use the same point.",
+  "icon": "icon.png",
+  "gameplay": true
+}
